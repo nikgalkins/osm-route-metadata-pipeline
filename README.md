@@ -1,6 +1,6 @@
 # OSM Last Modified Batcher (Overpass API + Google Sheets)
 
-Production-ready batch processor that fetches last_modified timestamps for OSM relations and their direct members via the Overpass API and writes structured results into Google Sheets.
+Configurable Python batch processor that fetches last_modified timestamps for OSM relations and their direct members via the Overpass API and writes structured results into Google Sheets.
 
 Designed for:
 
